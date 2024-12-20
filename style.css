@@ -35,3 +35,22 @@ a {
     width: 70%;
     margin: 0 auto;
 }
+
+/* MAIN */
+
+/* Hello part */
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.hello p {
+    font-size: 18px;
+}
+
+button {
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: white;
+}
