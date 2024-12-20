@@ -6,3 +6,16 @@ body {
     margin: 0;
     padding: 0;
 }
+
+/* HEADER */
+header {
+    padding: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
+.navigation {
+    display: flex;
+}
+
