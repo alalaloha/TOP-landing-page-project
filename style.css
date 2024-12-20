@@ -10,12 +10,25 @@ body {
 /* HEADER */
 header {
     padding: 10px;
+    background-color: rgb(227, 189, 252);
+    color: white;
 }
 
 ul {
     list-style-type: none;
 }
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
 .navigation {
     display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 70%;
+    margin: 0 auto;
 }
 
