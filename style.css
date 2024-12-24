@@ -54,3 +54,19 @@ button {
     border: none;
     background-color: white;
 }
+
+.section-hello {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.hello {
+    max-width: 50%
+}
+
+.black-computer {
+    width: 100%;
+    object-fit: contain;
+}
