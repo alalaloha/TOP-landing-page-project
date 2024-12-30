@@ -39,6 +39,7 @@ a {
 /* MAIN */
 
 /* Hello part */
+
 h1 {
     font-size: 48px;
     font-weight: 900;
@@ -59,14 +60,27 @@ button {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    width: 100%;
+    justify-content: space-between;
+    width: 70%;
+    margin: 0 auto;
 }
 
-.hello {
+.text-hello {
     max-width: 50%
 }
 
 .black-computer {
     width: 100%;
     object-fit: contain;
+}
+
+.presentation-top-background
+{
+    background-color: rgb(227, 189, 252);
+    color: white;
+    padding-top: 30px;
+}
+
+.text-illustration, .illustration {
+    flex: 1;
 }
