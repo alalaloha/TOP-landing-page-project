@@ -61,14 +61,12 @@ button {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
+    align-items: center;
     gap: 80px;
     width: 70%;
     margin: 0 auto;
 }
 
-.text-hello {
-    max-width: 50%
-}
 
 .black-computer {
     width: 100%;
