@@ -7,6 +7,10 @@ body {
     padding: 0;
 }
 
+.all-width {
+    width: 70%;
+    margin: 0 auto;
+}
 /* header */
 
 .top-menu, ul {
