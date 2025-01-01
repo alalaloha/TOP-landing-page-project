@@ -9,7 +9,7 @@ body {
 
 /* header */
 
-header, ul {
+.top-menu, ul {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
