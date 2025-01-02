@@ -30,3 +30,14 @@ ul {
 li {
     list-style-type: none;
 }
+
+/* Top section welcome */
+
+.welcome-img {
+    width: 40%;
+}
+
+.picture-1 {
+    object-fit: contain;
+    width: 100%;
+}
