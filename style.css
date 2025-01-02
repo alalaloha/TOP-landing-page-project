@@ -52,6 +52,12 @@ h1 {
 }
 
 /* END txt etc */
+
+.welcome-section {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .welcome-img, .welcome-txt {
     flex-basis: 50%;
 }
@@ -61,6 +67,10 @@ h1 {
     width: 100%;
 }
 
-.welcome-section {
+.welcome-txt { 
     display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 15px;
 }
