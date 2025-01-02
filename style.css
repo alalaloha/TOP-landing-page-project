@@ -11,6 +11,10 @@ body {
     width: 70%;
     margin: 0 auto;
 }
+
+p {
+    font-size: 18px;
+}
 /* header */
 
 header, main {
@@ -31,13 +35,32 @@ li {
     list-style-type: none;
 }
 
+li a {
+    text-decoration: none;
+}
+.logo {
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
 /* Top section welcome */
 
-.welcome-img {
-    width: 40%;
+/* txt etc */
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+/* END txt etc */
+.welcome-img, .welcome-txt {
+    flex-basis: 50%;
 }
 
 .picture-1 {
     object-fit: contain;
     width: 100%;
+}
+
+.welcome-section {
+    display: flex;
 }
