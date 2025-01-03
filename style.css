@@ -133,5 +133,11 @@ h1 {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
+    box-sizing: border-box;
+    padding: 50px 100px;
+}
+
+.bold-p {
+    font-weight: 900;
 }
 /* END cta */
