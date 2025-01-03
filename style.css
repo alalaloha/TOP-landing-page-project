@@ -21,7 +21,7 @@ section {
 }
 /* header */
 
-header, main {
+header{
     padding: 30px 0;
 }
 
@@ -152,5 +152,9 @@ h1 {
 footer p {
     text-align: center;
     padding: 20px 0;
+}
+
+footer {
+    background-color: rgb(233, 231, 231);
 }
 /* END footer */
