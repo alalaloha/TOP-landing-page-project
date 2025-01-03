@@ -120,4 +120,8 @@ h1 {
     font-weight: 900;
     text-align: right;
 }
+
+.quote-padding {
+    padding: 150px;
+}
 /* END quote */
