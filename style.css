@@ -15,6 +15,10 @@ body {
 p {
     font-size: 18px;
 }
+
+section {
+    padding: 50px 0;
+}
 /* header */
 
 header, main {
@@ -97,6 +101,7 @@ h1 {
 .all-width h2 {
     text-align: center;
     font-size: 36px;
+    margin-bottom: 50px;
 }
 .picture-box {
     height: 100%;
@@ -121,8 +126,9 @@ h1 {
     text-align: right;
 }
 
-.quote-padding {
-    padding: 150px;
+.background-grey {
+    background-color: rgb(233, 231, 231);
+    padding: 100px;
 }
 /* END quote */
 
@@ -141,3 +147,10 @@ h1 {
     font-weight: 900;
 }
 /* END cta */
+
+/* footer */
+footer p {
+    text-align: center;
+    padding: 20px 0;
+}
+/* END footer */
