@@ -125,3 +125,13 @@ h1 {
     padding: 150px;
 }
 /* END quote */
+
+/* cta */
+.div-cta {
+    background-color: rgb(251, 191, 230);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+/* END cta */
