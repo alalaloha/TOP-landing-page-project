@@ -165,4 +165,16 @@ button {
     border-radius: 10px;
     background-color: rgb(251, 191, 230);
 }
+
+.button-cta {
+    border: 2px white solid;
+}
+
+.button-welcome {
+    border: none;
+}
+.button-cta:hover, .button-welcome:hover{
+    border: 2px white solid;
+    background-color: rgb(196, 138, 176);
+}
 /* END buttons */
