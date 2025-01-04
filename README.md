@@ -1,4 +1,4 @@
-# TOP-landing-page-project
+# odin-landing-page
 
 For this project I had to recreate a [webpage](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png) only using HTML and CSS. I was free to follow the original template or to customize it.  
 
