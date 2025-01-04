@@ -158,3 +158,11 @@ footer {
     background-color: rgb(233, 231, 231);
 }
 /* END footer */
+
+/* buttons */
+button {
+    padding: 10px 30px;
+    border-radius: 10px;
+    background-color: rgb(251, 191, 230);
+}
+/* END buttons */
