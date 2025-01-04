@@ -1,1 +1,8 @@
 # TOP-landing-page-project
+
+Credits : 
+Photo by Antoni Shkraba from Pexels: https://www.pexels.com/photo/person-using-black-laptop-computer-5475752/
+Photo de Vlada Karpovich sur Pexels: https://www.pexels.com/fr-fr/photo/cafe-tasse-smartphone-ordinateur-portable-4050430/
+Photo by Designecologist from Pexels: https://www.pexels.com/photo/silver-imac-displaying-collage-photos-1779487/
+Photo de Anna Shvets sur Pexels: https://www.pexels.com/fr-fr/photo/mer-aube-nature-ciel-4014919/
+New York city : https://pxhere.com/fr/photo/1509305
