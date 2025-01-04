@@ -98,6 +98,7 @@ h1 {
 .info-box {
     height: 200px;
     width: 200px;
+    border: 2px rgb(215, 140, 247) solid;
 }
 
 .main-box p {
@@ -141,7 +142,7 @@ h1 {
 
 /* cta */
 .div-cta {
-    background-color: rgb(215, 140, 247);;
+    background-color: rgb(215, 140, 247);
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
